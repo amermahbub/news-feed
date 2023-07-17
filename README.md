@@ -1,16 +1,2 @@
-# live_test_ten
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1689615163](https://github.com/amermahbub/news-feed/assets/110281852/30f37d0e-78b1-48b3-8cc0-80d918fe5de2)
+![Screenshot_1689615170](https://github.com/amermahbub/news-feed/assets/110281852/744a08b4-b35d-4d8e-9191-57e9ea7421bf)
